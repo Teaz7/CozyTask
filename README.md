@@ -10,3 +10,8 @@
 - MARTEREZ, Jester Jhon
 - SAPANZA, RJ Jeshrell
 - SOMCIO, Laurice Mariel
+
+## Licensing & Copyright
+This project was developed for academic purposes at West Visayas State University. 
+The source code is presented here strictly as a portfolio showcase for educational 
+and employment review. All rights reserved. 
